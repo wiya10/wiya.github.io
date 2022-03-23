@@ -1,0 +1,58 @@
+.navbar-light {
+  background-color: #fff !important;
+}
+
+.navbar-brand {
+  background: #000;
+  color: #fff !important;
+  padding: 5px 8px;
+  border-radius: 35px;
+  font-weight: 500;
+}
+
+.bg-img .img-responsive {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.img-circle {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.profile-info {
+  margin-left: 25px;
+}
+
+.profile-info h2 {
+  margin-bottom: 0;
+}
+
+.profile-info p {
+  margin-bottom: 0;
+}
+
+.about-section {
+  margin-bottom: 25px;
+}
+
+.contact-section {
+  margin-bottom: 25px;
+}
+.contact-section p {
+  margin-bottom: 5px;
+}
+.contact-section a {
+  margin-right: 5px;
+  font-size: 18px;
+  color: #000;
+}
+.education-section p {
+  margin-bottom: 0;
+}
+.education-section {
+  margin-bottom: 25px;
+}
