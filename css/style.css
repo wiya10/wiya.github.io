@@ -56,3 +56,50 @@
 .education-section {
   margin-bottom: 25px;
 }
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  margin-top: -183px;
+}
+.card-img-1 {
+  margin-top: -12px;
+}
+.card-img-2 {
+  margin-top: -91px;
+}
+.card-img-3 {
+  margin-top: 1px;
+}
+
+@media screen and (max-width: 700px) {
+  .card {
+    width: 185%;
+  }
+  .profile-info {
+    margin-top: 160px;
+    margin-left: -123px;
+  }
+  .img-circle {
+    width: 175%;
+    height: 150px;
+  }
+  .mt-5 {
+    width: 60%;
+    margin-left: 105px;
+  }
+  .mt-4 {
+    width: 60%;
+    margin-left: 105px;
+  }
+  .mt-0 {
+    width: 60%;
+    margin-left: 105px;
+  }
+}
