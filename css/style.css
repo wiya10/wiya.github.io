@@ -77,6 +77,13 @@
 .card-img-3 {
   margin-top: 1px;
 }
+a {
+  text-decoration: none;
+  margin-left: 30px;
+  padding-left: 60px;
+  color: #000;
+  padding-top: 25px;
+}
 
 @media screen and (max-width: 700px) {
   .card {
@@ -100,6 +107,7 @@
   }
   .mt-0 {
     width: 60%;
+    padding-top: 86px;
     margin-left: 105px;
   }
 }
